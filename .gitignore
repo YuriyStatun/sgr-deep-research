@@ -269,6 +269,7 @@ private/
 experiments/
 test_runs/
 sandbox/
+dev_text_to_sql/
 
 # РАЗРАБОТКА И ТЕСТИРОВАНИЕ
 # Тестовые файлы
